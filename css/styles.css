@@ -61,13 +61,13 @@ article {
   border: 1px solid #F8F8F8;
 }
 
-/*aside {
+aside {
   flex-basis: 30%;
   background: #F8F8F8;
   padding: 10px;
 }
 
-footer {
+/*footer {
   height: 200px;
   background: #888;
   color: #fff;
