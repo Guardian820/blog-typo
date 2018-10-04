@@ -40,13 +40,13 @@ header {
   border-bottom: 1px solid #eee;
 }
 
-/*header h3 {
+header h3 {
   flex: 3;
   margin-left: 30px;
   margin-top: 15px;
 }
 
-header ul {
+/*header ul {
   flex: 1;
 }
 
