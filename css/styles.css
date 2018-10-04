@@ -56,12 +56,12 @@ header li {
   font-size: 0.9rem;
 }
 
-/*article {
+article {
   flex-basis: 70%;
   border: 1px solid #F8F8F8;
 }
 
-aside {
+/*aside {
   flex-basis: 30%;
   background: #F8F8F8;
   padding: 10px;
