@@ -119,8 +119,8 @@ footer {
   display: block;
 }
 
-/*.blog-list-content {
-  flex-basis:  70%;
+.blog-list-content {
+  flex-basis: 70%;
   background: #F0F0F0;
   line-height: 1.2rem;
   color: #303030;
@@ -128,7 +128,7 @@ footer {
   padding: 8px;
 }
 
-.blog-list-content h4 {
+/*.blog-list-content h4 {
   font-size: 1.2rem;
   margin: 10px 0;
 }
