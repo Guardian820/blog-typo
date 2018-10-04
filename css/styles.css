@@ -4,6 +4,10 @@ body {
   font-family: sans-serif;
 }
 
+body * {
+  box-sizing: border-box;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,10 +31,6 @@ body {
   height: 1.5em;
 }
 
-
-body * {
-  box-sizing: border-box;
-}
 
 /*
   ======  550px ======
