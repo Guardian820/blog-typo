@@ -27,16 +27,15 @@ body * {
   /*
  this is to apply flexbox to header and section when the window width is more than 550px.
   */
-  /*header {
-  display: flex;
+  *header {
+    display: flex;
   }
-
-section {
-	display: flex;
+  section {
+    display: flex;
   }
 }
 
-header {
+/*header {
   height: 45px;
   border-bottom: 1px solid #eee;
 }
