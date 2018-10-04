@@ -23,10 +23,6 @@ body * {
   height: 1.5em;
 }
 
-/*
-  ======  550px ======
-*/
-
 @media (min-width: 550px) {
   /*
  this is to apply flexbox to header and section when the window width is more than 550px.
