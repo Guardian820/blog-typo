@@ -112,14 +112,14 @@ footer {
   padding: 15px;
 }
 
-/*.thumbnail-frame {
+.thumbnail-frame {
   width: 130px;
   background: #eee;
   height: 80px;
   display: block;
 }
 
-.blog-list-content {
+/*.blog-list-content {
   flex-basis:  70%;
   background: #F0F0F0;
   line-height: 1.2rem;
