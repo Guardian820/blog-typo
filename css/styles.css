@@ -46,11 +46,11 @@ header h3 {
   margin-top: 15px;
 }
 
-/*header ul {
+header ul {
   flex: 1;
 }
 
-header li{
+/*header li{
   display: inline-block;
   margin-left: 15px;
   font-size: 0.9rem;
