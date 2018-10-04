@@ -89,7 +89,7 @@ footer {
   width: 90%;
 }
 
-/*.home-label-title {
+.home-label-title {
   display: inline-block;
   background: #333;
   color: #fff;
@@ -100,7 +100,7 @@ footer {
   font-size: 0.9rem;
 }
 
-
+/*
 .blog-list-home {
   display: flex;
   flex-direction: row;
