@@ -85,11 +85,11 @@ footer {
   border-bottom: 1px #333 solid;
 }
 
-/*.aside-label {
+.aside-label {
   width: 90%;
 }
 
-.home-label-title {
+/*.home-label-title {
   display: inline-block;
   background: #333;
   color: #fff;
